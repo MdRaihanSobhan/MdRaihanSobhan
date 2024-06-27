@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Raihan Sobhan</h1>
-<h3 align="center">Undergraduate student, Department of Computer Science and Engineering, Bangladesh University of Engineering and Technology. </h3>
-<h3 align="center"> Passionate Software Engineer.</h3>
+<h3 align="center">Undergraduate student <br> Department of Computer Science and Engineering <br> Bangladesh University of Engineering and Technology. <br> Passionate Software Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdraihansobhan&label=Profile%20views&color=0e75b6&style=flat" alt="mdraihansobhan" /> </p>
 
