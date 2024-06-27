@@ -7,8 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mdraihan_sobhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdraihan_sobhan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md raihan sobhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md raihan sobhan" height="30" width="40" /></a>
+<a href="https://x.com/mdraihan_sobhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdraihan_sobhan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-raihan-sobhan-804b751b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md raihan sobhan" height="30" width="40" /></a>
 <a href="https://fb.com/mdraihansobhan.raihan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdraihansobhan.raihan" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/md_raihan_sobhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="md_raihan_sobhan" height="30" width="40" /></a>
 </p>
