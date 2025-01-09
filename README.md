@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdraihansobhan&label=Profile%20views&color=0e75b6&style=flat" alt="mdraihansobhan" /> </p>
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ePZuW3tMQn-TgQWlw3Eg6p-SCtWD5hE_/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kzM3ilckQ0cPqOAD_DR7vkgxTZTGSNJy/view?usp=drivesdk)
 - 📫 How to reach me **raihan.cse.buet@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
