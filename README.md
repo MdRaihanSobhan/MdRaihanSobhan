@@ -21,7 +21,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MdRaihanSobhan&theme=onedark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MdRaihanSobhan&theme=onedark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MdRaihanSobhan&theme=onedark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MdRaihanSobhan&theme=onedark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MdRaihanSobhan&theme=onedark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MdRaihanSobhan&theme=onedark&utcOffset=6)
 
 </div>
 <h3 align="left">Languages and Tools:</h3>
